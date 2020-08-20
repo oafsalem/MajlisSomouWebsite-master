@@ -1,0 +1,62 @@
+h1{
+    background-color:#34383E;
+    float: center;
+    color:#C9AA4D;
+    text-align: center;
+}
+#page-header{
+    background-color:#34383E;
+}
+
+#page-header img{
+    width: 15%;
+    position: center right ;
+    background-color: white;
+    float:right;
+    width:15%;
+    padding-right: 40px;
+}
+
+
+ 
+ .page-top{
+    background-color:#34383E;
+    color: #C9AA4D;
+    font-family: 'SteelfishRegular';
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: 0.5em;
+    letter-spacing: 0.2em;
+}
+#navbar{
+    background-color: #34383E;
+    color:  #C9AA4D;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+   
+}
+#navbar li{
+    display: inline;
+
+}
+#navbar a{
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+}
+p{
+    width: 80%;
+
+}
+#linkedin-link{
+    
+}
+a{
+    background-color:#34383E ;
+    color: #C9AA4D;
+}
+a:hover{
+    
+   
+}
